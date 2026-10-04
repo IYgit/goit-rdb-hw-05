@@ -1,0 +1,8 @@
+# розпаковані CSV Olist — у репозиторії лежать лише *.csv.gz
+data/olist/*.csv
+
+# службове
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.idea/
